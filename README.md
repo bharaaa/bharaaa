@@ -1,4 +1,7 @@
-### Hi there 👋
+- Hi there 👋, I'm Bhara Alfhaniawan
+- 💻 Currently learning on Java development.
+- 📚 Constantly learning and exploring new technologies to expand my knowledge.
+- 🌱 Open to collaborations and eager to contribute to meaningful projects.
 
 <!--
 **bharaaa/bharaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
