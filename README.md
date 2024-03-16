@@ -1,5 +1,5 @@
 - Hi there 👋, I'm Bhara Alfhaniawan
-- 💻 Currently learning on Java development.
+- 💻 Currently learning Java Programming.
 - 📚 Constantly learning and exploring new technologies to expand my knowledge.
 - 🌱 Open to collaborations and eager to contribute to meaningful projects.
 
