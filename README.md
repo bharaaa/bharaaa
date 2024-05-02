@@ -3,6 +3,8 @@
 - 📚 Constantly learning and exploring new technologies to expand my knowledge.
 - 🌱 Open to collaborations and eager to contribute to meaningful projects.
 
+---
+
 <h3>🔥 My Stats :</h3>
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=23fajar23&theme=dark&background=000000)
