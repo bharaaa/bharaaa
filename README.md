@@ -1,5 +1,5 @@
 - Hi there 👋, I'm Bhara Alfhaniawan
-- 💻 Currently learning Java Programming.
+- 💻 Currently learning Back End and Front End Programming using Spring Boot and React.
 - 📚 Constantly learning and exploring new technologies to expand my knowledge.
 - 🌱 Open to collaborations and eager to contribute to meaningful projects.
 
