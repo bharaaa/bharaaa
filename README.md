@@ -3,6 +3,14 @@
 - 📚 Constantly learning and exploring new technologies to expand my knowledge.
 - 🌱 Open to collaborations and eager to contribute to meaningful projects.
 
+<h3>🔥 My Stats :</h3>
+
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=23fajar23&theme=dark&background=000000)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=23fajar23&layout=compact&theme=vision-friendly-dark)
+
+---
+
 <!--
 **bharaaa/bharaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
